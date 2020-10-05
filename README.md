@@ -6,8 +6,8 @@ Intelligent Process Manager. Intelligent Process Manager (IPM): It serves inform
 ## Setup
 `git clone` the repo and `cd` into it by running the following command:
 ```bash
-git clone https://github.com/jarvisbot20/alexa-skill-jarvis-bot20
-cd alexa-skill-jarvis-bot20
+git clone https://github.com/jarvis-product-bot-2/alexa-skill-klark-bot
+cd alexa-skill-klark-bot
 ```
 ### `npm install`
 

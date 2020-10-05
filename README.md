@@ -1,4 +1,4 @@
-# alexa-skill-jarvis-bot20
+# alexa-skill-klark-bot20
 Intelligent Process Manager. Intelligent Process Manager (IPM): It serves information from the tools deployed from the corporate intranet. It uses multiple information sources in order to learn about a product to optimize developer/product support processes in a team from task allotment to project deployment.
 
 # Installation Guide

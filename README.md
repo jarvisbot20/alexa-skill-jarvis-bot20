@@ -6,7 +6,7 @@ Intelligent Process Manager (IPM): It serves information from the tools deployed
 ## Setup
 `git clone` the repo and `cd` into it by running the following command:
 ```bash
-git clone https://github.com/jarvis-product-bot-2/alexa-skill-klark-bot
+git clone https://github.com/klark-product-bot/alexa-skill-klark-bot
 cd alexa-skill-klark-bot
 ```
 ### `npm install`

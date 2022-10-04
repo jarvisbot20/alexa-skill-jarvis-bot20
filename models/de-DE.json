@@ -1,0 +1,62 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "hardbase f. m.",
+            "intents": [
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "PlayStreamIntent",
+                    "slots": [],
+                    "samples": [
+                        "um die Songs zu spielen",
+                        "um die Musik zu spielen",
+                        "um die Musik zu starten",
+                        "starte Musik",
+                        "beginne Musik zu spielen",
+                        "beginne mit dem song",
+                        "spielen",
+                        "starte die Songs",
+                        "beginne Musik",
+                        "spiele den Song",
+                        "spiele Musik"
+                    ]
+                },
+                {
+                    "name": "AMAZON.PauseIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ResumeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.RepeatIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StartOverIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "Hilfe",
+                        "help me"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
